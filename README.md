@@ -1,7 +1,7 @@
 # Dictionary-App 📖
 Dictionary App using HTML , CSS , SCSS , Javascript API
 
-**[LIVE DEMO](https://ahmed-dotnetdev.github.io/Dictionary-App/)**
+**[LIVE DEMO](https://dev986.github.io/Dictionary-App/)**
 
 ## Idea of application 🤔
 
